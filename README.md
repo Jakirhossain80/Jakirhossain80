@@ -1,24 +1,32 @@
-<h1 align="center">Hi 👋, I'm Md. Jakir Hossain</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+### Hi there 👋, Md. Jakir Hossain
+#### I am a web developer
+![I am a web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-- 🔭 I’m currently working on **Test Project**
+I am working on web developing.
 
-- 🌱 I’m currently learning **to make website**
+Skills: HTML / CSS
 
-- 👯 I’m looking to collaborate on **One Project**
+- 🔭 I’m currently working on In a project 
+- 🌱 I’m currently learning Web developing 
+- 👯 I’m looking to collaborate on A project 
+- 📫 How to reach me: jakir.devbd@gmail.com 
+- ⚡ Fun fact: I am funny 
 
-- 🤝 I’m looking for help with **Someone**
 
-- 👨‍💻 All of my projects are available at [in github](in github)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jakirhossain80)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jakir.hossain.50364592)  
 
-- 💬 Ask me about **HTML5, CSS3**
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-- 📫 How to reach me **jakir.devbd@gmail.com**
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jakirhossain80)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/jakir.hossain.50364592" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jakir.hossain.50364592" height="30" width="40" /></a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakirhossain80)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakirhossain80&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jakirhossain80)  
+
+![GitHub metrics](https://metrics.lecoq.io/Jakirhossain80)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Jakirhossain80)  
+
+![Profile views](https://gpvc.arturio.dev/Jakirhossain80)  
