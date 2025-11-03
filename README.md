@@ -1,7 +1,7 @@
 👋 Hi, I'm Md. Jakir Hossain  
 💻 MERN Stack Web Developer**  
 
-![I am a MERN Stack Web Developer](https://drive.google.com/file/d/1aGulyvanoMP37xvpZTttPIEpA7ICXz86/view?usp=sharing)
+![I am a MERN Stack Web Developer](https://i.postimg.cc/VsrsFj0p/MERN-Stack-Developer-Md-Jakir-Hossain.png)
 
 
 🧑‍💼 About Me
